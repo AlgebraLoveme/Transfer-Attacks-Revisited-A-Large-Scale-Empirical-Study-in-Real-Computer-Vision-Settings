@@ -1,0 +1,88 @@
+{
+  "engine": [
+    "Motor",
+    "Sports Car",
+    "Fire Truck",
+    "Motorcycle",
+    "Automobile",
+    "Train",
+    "Engine",
+    "Van",
+    "Car",
+    "Race Car"
+  ],
+  "remote_control": [
+    "Remote Control"
+  ],
+  "container": [
+    "Tanker",
+    "Shipping Container",
+    "Port",
+    "Ship",
+    "High Rise",
+    "Cargo",
+    "Trailer Truck",
+    "Freighter",
+    "Construction Crane"
+  ],
+  "baseball": [
+    "Baseball Glove",
+    "Baseball",
+    "Baseball Bat",
+    "Team Sport",
+    "Athlete"
+  ],
+  "helicopter": [
+    "Aircraft",
+    "Airfield",
+    "Airport",
+    "Airplane",
+    "Helicopter"
+  ],
+  "weapon": [
+    "Helmet",
+    "Army",
+    "Gun",
+    "Armored",
+    "Weapon",
+    "Military Uniform",
+    "Sniper",
+    "Weaponry",
+    "Telescope",
+    "Military",
+    "Soldier",
+    "Tank"
+  ],
+  "computer_keyboard": [
+    "Laptop",
+    "Computer",
+    "Computer Keyboard",
+    "Pc",
+    "Keyboard"
+  ],
+  "microphone": [
+    "Karaoke",
+    "Microphone",
+    "Musician"
+  ],
+  "toilet": [
+    "Sink",
+    "Toilet",
+    "Bathroom"
+  ],
+  "musical_instrument": [
+    "Brass Section",
+    "Mandolin",
+    "Lute",
+    "Guitar",
+    "Electric Guitar",
+    "Flugelhorn",
+    "Musical Instrument",
+    "Horn",
+    "Tuba",
+    "Cornet",
+    "Bass Guitar",
+    "Euphonium",
+    "Trumpet"
+  ]
+}
