@@ -1,6 +1,6 @@
 ## Quick Start
 
-For running the experiment, please refer to [the first chapter](#instructions-on-how-to-run-the-code). For the OLS analysis, you can directly jump to [the second chapter](#instructions-on-how-to-recover-the-ols-tables).
+For running the experiment, please refer to [the first chapter](#instructions-on-how-to-run-the-code). The first part is almost the same to [DeepSec](https://github.com/ryderling/DEEPSEC). We added extra cloud test codes based on DeepSec. For the OLS analysis, you can directly jump to [the second chapter](#instructions-on-how-to-recover-the-ols-tables).
 
 ### Instructions on how to run the code
 
